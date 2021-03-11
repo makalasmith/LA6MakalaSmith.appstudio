@@ -3,5 +3,12 @@ var answer = 0
 
 
 btnAdd.onclick=function(){
-  lblAnswer = addTwo(inptNumber1.value,inptNumber2.value)
+  let num1 = parsInt(inptNumber1.value)
+  let num2 = parsInt(inptNumber2.value)
+  let answer = num1 + num2
+  lblAnswer = answer
+}
+
+btnClear.onclick=function(){
+  lblAnswer.value = ""
 }
