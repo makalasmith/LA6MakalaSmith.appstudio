@@ -4,8 +4,10 @@ let members = ["Mary","Sam","Joey","Paul","Mike","Char","Jenny","Kennedy","Kaden
 
 btnSubmit.onclick=function(){
   let name = inptName.value
-  if members.includes(name) 
+  if (members.includes(name) == true){
     lblMessage.textContent = `Hello ${name}, you are a member`
-  else
+  } else {
     lblMessage.textContent = `Hello ${name}, you are not a member`
+    member.push(name)
+    }
 }
