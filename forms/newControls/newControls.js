@@ -10,3 +10,7 @@ Jumbotron1.onclick=function(){
 Card1.ontouchstart=function(){
   alert("Cool!")
 }
+
+Media1.onclick=function(){
+  alert("Fun media!")
+}

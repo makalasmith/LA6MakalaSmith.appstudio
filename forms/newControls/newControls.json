@@ -45,6 +45,15 @@
         "Elements",
         "Media1.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "newControls",
+        "Elements",
+        "Label1.json"
+      ]
     }
   ],
   "class": "",

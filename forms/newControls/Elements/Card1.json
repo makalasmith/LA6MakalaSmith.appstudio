@@ -1,10 +1,10 @@
 {
   "!type": "Card_bs4",
-  "align": "",
+  "align": " text-center ",
   "backgroundColor": "",
   "bgColor": "p-3 mb-2 bg-success text-white",
   "borderColor": "",
-  "borderStyle": "",
+  "borderStyle": "ridge",
   "borderWidth": "",
   "bottom": "auto",
   "cached_js": "",
