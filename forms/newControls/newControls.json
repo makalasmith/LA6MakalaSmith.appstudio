@@ -59,7 +59,7 @@
   "locked": false,
   "modal": "false",
   "onhide": "",
-  "onkeypress": "",
+  "onkeypress": "newControls.onkeypress()",
   "onresize": "",
   "onshow": "",
   "openMode": "none",
