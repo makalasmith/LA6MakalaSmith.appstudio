@@ -17,9 +17,9 @@
   "fontWeight": "",
   "height": "auto",
   "hidden": "",
-  "id": "Label1",
+  "id": "Changes",
   "labelStyle": "text",
-  "left": 96,
+  "left": 76,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 173,
+  "top": 144,
   "value": "on the jumbotron, I changed the background color and the font color. on the checkbox, i changed the the items and made the font italic. on the card, i changed the background color and i aligned center. on the media, i changed the background color and the picture. ",
   "width": "auto"
 }
